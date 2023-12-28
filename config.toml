@@ -18,8 +18,8 @@ disableKinds = ["taxonomy", "term"]
     { github = "https://github.com/mihaialdoiu" },
     { stack-overflow = "https://stackoverflow.com/users/18233221/mihai-a" },
     { instagram = "https://www.instagram.com/mihai.aldoiu/" }, 
-    { flickr = "https://www.shutterstock.com/g/maldoiu" }    
-    { email = "mailto:mihai@aldoiu.ro" },
+    { flickr = "https://www.shutterstock.com/g/maldoiu" },    
+    { email = "mailto:mihai@aldoiu.ro" }
   ]
 
 [module]
