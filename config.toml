@@ -10,16 +10,16 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Mihai Aldoiu"
-  headline = "Certified AWS Solutions Architect | Site Reliability Engineer | NoSQL Databases"
+  headline = "AWS Certified Solutions Architect | Site Reliability Engineer | CKA"
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
     { linkedin = "https://linkedin.com/in/aldoiu" },
+    { link = { href = "https://www.credly.com/users/mihai-aldoiu/badges", text = "Certifications" } },
     { github = "https://github.com/mihaialdoiu" },
     { stack-overflow = "https://stackoverflow.com/users/18233221/mihai-a" },
     { instagram = "https://www.instagram.com/mihai.aldoiu/" }, 
-    { flickr = "https://www.shutterstock.com/g/maldoiu" },    
-    { email = "mailto:mihai@aldoiu.ro" }
+    { link = { href = "https://www.shutterstock.com/g/maldoiu", text = "ShutterStock" } }
   ]
 
 [module]
