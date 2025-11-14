@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
 [author]
   name = "Mihai Aldoiu"
   headline = "AWS Certified Solutions Architect | Site Reliability Engineer | CKA"
-  # image = "img/author.jpg"  # path relative to static directory
+  ## image = "img/author.jpg"  # path relative to static directory
 
   links = [
     { linkedin = "https://linkedin.com/in/aldoiu" },
